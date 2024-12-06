@@ -1,3 +1,5 @@
+-- Joining `SpecialOfferProduct` with Product and Categories  
+
 SELECT 
     sop.SpecialOfferID,
     sop.ProductID,                     -- Unique identifier for the product associated with a special offer
