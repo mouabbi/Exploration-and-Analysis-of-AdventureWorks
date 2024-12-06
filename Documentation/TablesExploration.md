@@ -292,4 +292,4 @@ Here’s a summary of other related tables
 ## Next Steps  
 
 Once the data exploration and documentation are complete, proceed to:  
-[Data Cleaning and Preparation Guide](Documentation/DataCleaning.md) to start identifying anomalies, handling missing values, removing duplicates, and ensuring data consistency for high-quality analysis.
+[Data Cleaning and Preparation Guide](../Documentation/DataCleaning.md) to start identifying anomalies, handling missing values, removing duplicates, and ensuring data consistency for high-quality analysis.
