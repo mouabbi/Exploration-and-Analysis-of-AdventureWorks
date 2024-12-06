@@ -1,3 +1,4 @@
+-- Extraction Important Columns from the SalesTerritory table
 SELECT 
     TerritoryID,            -- Unique identifier for the territory
     Name,                   -- Territory name
