@@ -24,7 +24,7 @@ This project aims to work with the AdventureWorks database to develop skills in 
 3. **Data Cleaning and Quality Assurance**  
    - [Refer to Data Cleaning Guidelines](Documentation/DataCleaning.md).  
 
-4. **Data Visualization with Power BI or Tableau**  
+4. **Data Visualization with Power BI**  
    - [Explore Visualization Examples](Documentation/DataVisualization.md).  
 
 5. **Task Management with Taiga.io**  

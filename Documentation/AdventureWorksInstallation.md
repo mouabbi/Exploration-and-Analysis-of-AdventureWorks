@@ -81,4 +81,7 @@ This guide provides step-by-step instructions to download, install, and set up t
 
 ---
 
+## Next Steps
 
+Once your AdventureWorks database is installed and verified, proceed to:
+[Data Exploration and Documentation ](Documentation/TablesExploration.md) to start exploring the schema, querying tables, and analyzing data.
