@@ -1,3 +1,5 @@
+-- Joining `SalesPerson` and `Employee` Tables
+
 SELECT 
     sp.BusinessEntityID,        -- Unique identifier for the employee in the system
     sp.TerritoryID,             -- Sales territory identifier
