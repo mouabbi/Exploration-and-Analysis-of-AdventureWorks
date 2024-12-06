@@ -1,4 +1,4 @@
--- Extraction Important Columns 
+-- Extraction Important Columns from the SalesOrderDetail table
 SELECT 
     SalesOrderID,           -- Foreign key linking to the SalesOrderHeader table
     SalesOrderDetailID,     -- Unique identifier for each line item in the sales order
