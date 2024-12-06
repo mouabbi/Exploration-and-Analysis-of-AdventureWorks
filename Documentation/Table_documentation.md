@@ -1,4 +1,4 @@
-# AdventureWorks Sales and Territory Analysis
+# Table Documentation 
 
 This project explores and analyzes the sales data of the fictional company AdventureWorks. We focus on understanding the relationships between various tables that contain sales and territory information. Below are the details of the key tables used in this analysis.
 
