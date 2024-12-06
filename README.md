@@ -1,33 +1,33 @@
-# 📊 AdventureWorks Sales Analysis
+# Project: AdventureWorks Sales Analysis 
 
-## Overview
-This project aims to analyze sales and performance metrics for the AdventureWorks database, a fictional company used for demonstrating data analytics and business intelligence concepts. The analysis focuses on sales data, territories, customer demographics, and sales personnel performance. Using SQL Server and Power BI, insights were extracted and visualized to facilitate decision-making and performance evaluation.
+## Project Description  
+This project aims to work with the AdventureWorks database to develop skills in data management, cleaning, visualization, and collaborative teamwork. Our team focuses specifically on the sales domain to analyze performance and create insightful dashboards.  
 
-## Tools Used
-- 🛠️ **SQL Server**: For querying, extracting, and cleaning data from the AdventureWorks database.
-- 📊 **Power BI**: For creating interactive dashboards and visualizing insights.
-- 🌐 **GitHub**: For version control and sharing project artifacts.
+---
 
-## Workflow
-1. **Data Extraction**: 
-   - SQL queries were written to extract data from key tables such as `SalesOrderHeader`, `SalesOrderDetail`, `Customer`, `SalesPerson`, and `Product`.
-2. **Data Cleaning**:
-   - Data transformations and cleaning were performed using SQL scripts to ensure data accuracy and consistency.
-3. **Data Analysis**:
-   - Analytical SQL queries were used to derive insights into sales performance, customer behaviors, and regional trends.
-4. **Visualization**:
-   - The cleaned and analyzed data was imported into Power BI to create interactive dashboards and visualizations.
+## This Project is Executed By:  
+- **[EL Harkaoui Meriam](https://github.com/mouabbi)**  
+- **[OUABBI Mohamed](https://github.com/meriamelharkaoui)**  
 
-## Key Features
-- **Comprehensive Data Insights**: Analyze sales orders, customer demographics, and sales territories with SQL queries.
-- **Dynamic Dashboards**: Interactive Power BI dashboards providing detailed visualizations for decision-making.
-- **Actionable Metrics**: Evaluate sales performance and identify trends to drive business strategy.
+---
 
+## Project Steps  
 
-## Highlights
-- 🌍 **Regional Insights**: Uncover patterns and performance metrics across different territories.
-- 🏆 **Salesperson Analysis**: Measure and compare individual sales performance against quotas and targets.
-- 📦 **Product Trends**: Understand product demand and sales patterns to optimize inventory.
-- 🧹 **Data Cleaning**: Ensure data integrity and accuracy through well-structured cleaning scripts.
+1. **Download and Install AdventureWorks**  
+   - Download the appropriate version of the database from [AdventureWorks Databases](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure).  
+   - Import the `.bak` file into SQL Server Management Studio (SSMS) to install the database.  
+   - [View detailed instructions](documentation/AdventureWorksInstallation.md) with screenshots and links.  
 
-Explore the data, discover patterns, and gain actionable insights with AdventureWorks Sales Analysis!
+2. **Table Exploration**  
+   - [Refer to Tables Assignments and Documentation](documentation/TablesExploration.md).  
+
+3. **Data Cleaning and Quality Assurance**  
+   - [Refer to Data Cleaning Guidelines](documentation/DataCleaning.md).  
+
+4. **Data Visualization with Power BI or Tableau**  
+   - [Explore Visualization Examples](documentation/DataVisualization.md).  
+
+5. **Task Management with Taiga.io**  
+   - [Learn about Task Management Setup](documentation/TaskManagement.md).  
+
+---
