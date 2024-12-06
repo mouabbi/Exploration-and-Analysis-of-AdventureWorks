@@ -1,3 +1,4 @@
+-- Joining `Customer` and `Person` Tables  
 SELECT 
     c.CustomerID,                  -- Unique identifier for the customer
     c.TerritoryID,                 -- Sales territory identifier
