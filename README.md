@@ -6,8 +6,8 @@ This project aims to work with the AdventureWorks database to develop skills in 
 ---
 
 ## This Project is Executed By:  
-- **[EL Harkaoui Meriam](https://github.com/mouabbi)**  
-- **[OUABBI Mohamed](https://github.com/meriamelharkaoui)**  
+- **[EL Harkaoui Meriam](https://github.com/meriam)**  
+- **[OUABBI Mohamed](https://github.com/mouabbi)**  
 
 ---
 
@@ -34,8 +34,8 @@ This project aims to work with the AdventureWorks database to develop skills in 
 
 ## 🛠️ Tools Used:  
 
-- **SQL Server** ![SQL Server Icon](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)  
-- **Power BI** ![Power BI Icon](https://img.icons8.com/ios-filled/50/000000/power-bi.png)  
-- **Taiga.io** ![Taiga.io Icon](https://img.icons8.com/ios-filled/50/000000/taiga.png)
+- **SQL Server** 🔲  
+- **Power BI** 📊  
+- **Taiga.io** 📅
 
 ---
