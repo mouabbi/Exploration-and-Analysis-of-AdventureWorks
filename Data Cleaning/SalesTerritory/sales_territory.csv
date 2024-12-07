@@ -1,4 +1,5 @@
-﻿1;Northwest;US;North America;7887186,7882;3298694,4938;0,00;0,00
+﻿TerritoryID;Name;CountryRegionCode;Group;SalesYTD;SalesLastYear;CostYTD;CostLastYear
+1;Northwest;US;North America;7887186,7882;3298694,4938;0,00;0,00
 2;Northeast;US;North America;2402176,8476;3607148,9371;0,00;0,00
 3;Central;US;North America;3072175,118;3205014,0767;0,00;0,00
 4;Southwest;US;North America;10510853,8739;5366575,7098;0,00;0,00

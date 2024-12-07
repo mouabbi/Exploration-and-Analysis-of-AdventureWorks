@@ -104,6 +104,7 @@ To focus on relevant data for the analysis, the following columns were selected 
 - `SalesOrderDetailID`: Unique identifier for each line item in the sales order.
 - `OrderQty`: Quantity of the product ordered.
 - `ProductID`: Identifier for the product ordered.
+- `SpecialOfferID` : Identifier for the Special Offer
 - `UnitPrice`: Price per unit of the product.
 - `UnitPriceDiscount`: Discount applied per unit.
 - `LineTotal`: Total amount for the line, calculated as `OrderQty * (UnitPrice - UnitPriceDiscount)`.
@@ -116,6 +117,7 @@ SELECT
     SalesOrderDetailID,     -- Unique identifier for each line item in the sales order
     OrderQty,               -- Quantity of the product ordered
     ProductID,              -- Product identifier
+    SpecialOfferID,         -- SpecialOffer identifier
     UnitPrice,              -- Price per unit of the product
     UnitPriceDiscount,      -- Discount applied per unit
     LineTotal               -- Total amount for the line

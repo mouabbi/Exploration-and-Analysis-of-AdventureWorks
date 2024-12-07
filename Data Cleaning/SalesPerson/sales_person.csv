@@ -1,4 +1,5 @@
-﻿274;NULL;NULL;0,00;0,00;559697,5639;0,00;North American Sales Manager;2011-01-04;M
+﻿BusinessEntityID;TerritoryID;SalesQuota;Bonus;CommissionPct;SalesYTD;SalesLastYear;JobTitle;HireDate;Gender
+274;NULL;NULL;0,00;0,00;559697,5639;0,00;North American Sales Manager;2011-01-04;M
 275;2;300000,00;4100,00;0,012;3763178,1787;1750406,4785;Sales Representative;2011-05-31;M
 276;4;250000,00;2000,00;0,015;4251368,5497;1439156,0291;Sales Representative;2011-05-31;F
 277;3;250000,00;2500,00;0,015;3189418,3662;1997186,2037;Sales Representative;2011-05-31;F

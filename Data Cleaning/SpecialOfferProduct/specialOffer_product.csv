@@ -1,4 +1,5 @@
-﻿1;680;HL Road Frame - Black, 58;FR-R92B-58;Black;1059,31;1431,50;2008-04-30 00:00:00.000;NULL;Road Frames;Components
+﻿SpecialOfferID;ProductID;ProductName;ProductNumber;Color;StandardCost;ListPrice;SellStartDate;SellEndDate;SubcategoryName;CategoryName
+1;680;HL Road Frame - Black, 58;FR-R92B-58;Black;1059,31;1431,50;2008-04-30 00:00:00.000;NULL;Road Frames;Components
 1;706;HL Road Frame - Red, 58;FR-R92R-58;Red;1059,31;1431,50;2008-04-30 00:00:00.000;NULL;Road Frames;Components
 1;707;Sport-100 Helmet, Red;HL-U509-R;Red;13,0863;34,99;2011-05-31 00:00:00.000;NULL;Helmets;Accessories
 2;707;Sport-100 Helmet, Red;HL-U509-R;Red;13,0863;34,99;2011-05-31 00:00:00.000;NULL;Helmets;Accessories

@@ -6,7 +6,7 @@ This project aims to work with the AdventureWorks database to develop skills in 
 ---
 
 ## This Project is Executed By:  
-- **[EL Harkaoui Meriam](https://github.com/meriam)**  
+- **[EL Harkaoui Meriam](https://github.com/Elharkaoui-Meriem)**  
 - **[OUABBI Mohamed](https://github.com/mouabbi)**  
 
 ---
