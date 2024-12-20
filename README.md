@@ -37,5 +37,6 @@ This project aims to work with the AdventureWorks database to develop skills in 
 - **SQL Server** 🔲  
 - **Power BI** 📊  
 - **Taiga.io** 📅
+- **Python(for Predictive Analytics)**
 
 ---
