@@ -5,7 +5,6 @@ SELECT
     OrderDate,           -- Date when the order was placed
     DueDate,             -- Scheduled processing date for the order
     ShipDate,            -- Actual shipment date of the order
-	OnlineOrderFlag,
     CustomerID,          -- Identifier for the customer placing the order
     SalesPersonID,       -- Identifier for the salesperson responsible for the order
     TerritoryID,         -- Identifier for the sales territory
