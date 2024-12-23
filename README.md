@@ -1,7 +1,7 @@
 # Project: AdventureWorks Sales Analysis 
 
 ## Project Description  
-This project aims to work with the AdventureWorks database to develop skills in data management, cleaning, visualization, and collaborative teamwork. Our team focuses specifically on the sales domain to analyze performance and create insightful dashboards.  
+This project aims to work with the AdventureWorks database to develop skills in data management, cleaning, visualization, and collaborative teamwork Our team focuses specifically on the sales domain to analyze performance and create insightful dashboards.  
 
 ---
 
