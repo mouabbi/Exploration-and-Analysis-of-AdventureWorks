@@ -25,10 +25,44 @@ This project aims to work with the AdventureWorks database to develop skills in 
    - [Refer to Data Cleaning Guidelines](Documentation/DataCleaning.md).  
 
 4. **📊 Data Visualization with Power BI**  
-   - [Explore Visualization Examples](Documentation/DataVisualization.md).  
 
-5. **📅 Task Management with Taiga.io**  
-   - [Task Management Setup](Documentation/TaskManagement.md).
+ - ### **Dashboard pages:** 
+   
+   #### **Page 1: Home (OverView)**
+   
+   
+   ![Total Sales Overview](images/powerbi/pages/home.png)
+   
+   #### **Page 2: Product**
+   
+   ![Total Sales Overview](images/powerbi/pages/product.png)
+   
+   #### **Page 3: Customer**
+   
+   ![Total Sales Overview](images/powerbi/pages/customer.png)
+   
+   #### **Page 4: Employee**
+   
+   ![Total Sales Overview](images/powerbi/pages/employee.png)
+   
+   #### **Page 5: sales map**
+   
+   ![Total Sales Overview](images/powerbi/pages/map.png)
+   
+   #### **Page 6: Pays**
+   
+   ![Total Sales Overview](images/powerbi/pages/pays.png)
+   
+   #### **Page 7: Time**
+   
+   ![Total Sales Overview](images/powerbi/pages/temps.png)
+
+
+
+   
+   - For more detailed information, visit: [Data Visualization Documentation](Documentation/DataVisualization.md).  
+
+
 
 ---
 
@@ -36,7 +70,12 @@ This project aims to work with the AdventureWorks database to develop skills in 
 
 - **SQL Server** 🔲  
 - **Power BI** 📊  
-- **Taiga.io** 📅
-- **Python(for Predictive Analytics)**
+
+
 
 ---
+
+🔗 **Contact Me:**  
+[📧 Email](mailto:mohamedouabbi7@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/mohamed-ouabbi/)  
+
+✨ **Analyzing today to shape a smarter tomorrow!**  
